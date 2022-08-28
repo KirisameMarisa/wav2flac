@@ -3,7 +3,9 @@ conv wav to flac tool for youtube music</br>
 i dont wanna use freeware so i made
 
 # require
-need ffmpeg, ffprob and must set path.
+* python3
+* pydub module
+* need ffmpeg, ffprob and must set path
 
 # how to?
 1. run main.bat
